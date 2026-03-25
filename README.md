@@ -1,5 +1,6 @@
 [Readme.md](https://github.com/user-attachments/files/26254398/Readme.md)
-Willkommen beim Finanz-Rechner von "Freiheit-durch-Geld" ??
+
+Willkommen beim Finanz-Rechner von "Freiheit-durch-Geld".
 
 Dieser Rechner ist für alle gedacht, die im Finanzdschungel den Durchblick behalten wollen. 
 Hier geht es nicht um schnelles Geld oder komplizierte Strategien, sondern um die nackten Zahlen und die Realität.
